@@ -12,10 +12,10 @@
 :root {
   --up-white: #ffffff;
   --background-header-footer: #2f303a;
-  /* --main-background: #f5f5f5; */
-  --main-background: #dbfafa;
-  /* --second-background: #f5f4fa; */
-  --second-background: #d8d8dd;
+  --main-background: #f5f5f5;
+  /* --main-background: #dbfafa; */
+  --second-background: #f5f4fa;
+  /* --second-background: #d8d8dd; */
   --activ: #2196f3;
   --logo-text: #000000;
   --color-title: #212121;

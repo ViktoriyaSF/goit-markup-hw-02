@@ -122,8 +122,7 @@ body {
 }
 .page-button:hover,
 .page-button:focus {
-  color: var(--activ-button);
-  /* background-color: var(--up-white); */
+  background-color: var(--activ-button);
 }
 /* Наші переваги */
 .pluses-title {
